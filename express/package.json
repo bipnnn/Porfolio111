@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node /Users/bipingurung/Desktop/sem3/web_application/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+  
+  
+}
